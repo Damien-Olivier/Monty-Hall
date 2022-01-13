@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/90400289/149345213-3131e0cf-38bb-4923-9376-98f1e0d613a0.png)
+![image](python/Images/MontyHall.png)
 
 
 # Monty-Hall
