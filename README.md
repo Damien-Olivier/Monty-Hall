@@ -11,5 +11,11 @@ Il est nécessaire de compléter cet énoncé, pour éviter toute ambiguité par
 1. Le présentateur doit toujours ouvrir une porte  qui n'a pas été choisie par vous, derrière laquelle il y a une chèvre.
 1. Le choix qui vous est offert est entre la porte choisie à l'origine et la porte fermée restante.
 
-On peut se fier à son intuition ou faire des maths oue encore être un gros bourin d'informaticien. Pour cela il suffit de simuler une centaine de parties et regarder les résultats. Cela devrait permettre de définir la bonne stratégie ! Bon un raisonnement correct c'est bien aussi.
+On peut se fier à son intuition ou faire des maths ou encore être un gros bourin d'informaticien. Pour cela il suffit de simuler une centaine de parties et regarder les résultats. Cela devrait permettre de définir la bonne stratégie ! Bon un raisonnement correct c'est bien aussi.
+
+## Simulations
+
+
+
+
 
