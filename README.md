@@ -22,8 +22,18 @@ La simulation nous donne le résultat suivant :
 
 On constate que la bonne stratégie consiste donc à changer de porte pour augmenter ses chances.
 
+les pigeons nous appelle à un peu d'humilité. En effet, Herbranson et Schroeder ont montré en 2010 que les pigeons après une centaine de tentatives retenaient que la bonne stratégie consistait à changer<span id="a1">[¹](#1)</span>.
 
 
+![PigeonsMontyHall.png](Images/PigeonsMontyHall.png)
+
+
+
+
+
+<span id="1"> 
+
+1. HERBRANSON, Walter T. and SCHROEDER, Julia, 2010. Are birds smarter than mathematicians? Pigeons (Columba livia) perform optimally on a version of the Monty Hall Dilemma. *Journal of Comparative Psychology* [online]. 2010. Vol. 124, no. 1, p. 1–13. [Accessed 13 January 2022]. DOI [10/ds2rnn](10/ds2rnn). Available from: [10/ds2rnn](10/ds2rnn)</span>[⏎](#a1)<br>
 
 
 
