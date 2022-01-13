@@ -15,7 +15,7 @@ On peut se fier à son intuition ou faire des maths ou encore être un gros bour
 
 ## Simulation
 
-La simulation nous donne donc le résultat suivant :
+La simulation nous donne le résultat suivant :
 
 ![image](python/Images/ResultatsSimulation.png)
 
