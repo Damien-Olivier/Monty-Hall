@@ -50,7 +50,7 @@ $$
 
 * ${\displaystyle E_1}$ et ${\displaystyle E_2}$ sont deux évènements ;
 * ${\displaystyle P(E_1)}$ et ${\displaystyle P(E_2)}$ sont la probabilité des deux évènements. Ce sont des probabilités _a priori_.
-* ${\displaystyle P(E_1\mid E_2)}$ est la probabilité conditionnelle que l'évènement ${\displaystyle E_1}$ se réalise étant donné que l'évènement ${\displaystyle E_2}$ s'est réalisé. C'est la probabilité conditionnelle de {\displaystyle E_1} sachant {\displaystyle E_2} ou probabilité _a posteriori_ ;
+* ${\displaystyle P(E_1\mid E_2)}$ est la probabilité conditionnelle que l'évènement ${\displaystyle E_1}$ se réalise étant donné que l'évènement ${\displaystyle E_2}$ s'est réalisé. C'est la probabilité conditionnelle de ${\displaystyle E_1}$ sachant ${\displaystyle E_2}$ ou probabilité _a posteriori_ ;
 * ${\displaystyle P(E_2\mid E_1)}$ est la probabilité conditionnelle que l'évènement ${\displaystyle E_2}$ se réalise étant donné que l'évènement ${\displaystyle E_1}$ s'est réalisé. C'est la probabilité conditionnelle de ${\displaystyle E_2}$ sachant ${\displaystyle E_1}$ ou probabilité _a posteriori_.
 
 Utilisons la formule de Bayes dans le cas du Monty Hall. Soit $A$, $B$ et $C$ les trois portes. Supposons que nous choisissons la porte $A$ et que l'animateur ouvre la porte $B$. Nous devons calculer :
