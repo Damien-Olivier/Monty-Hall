@@ -13,7 +13,15 @@ Il est nécessaire de compléter cet énoncé, pour éviter toute ambiguité par
 
 On peut se fier à son intuition ou faire des maths ou encore être un gros bourin d'informaticien. Pour cela il suffit de simuler une centaine de parties et regarder les résultats. Cela devrait permettre de définir la bonne stratégie ! Bon un raisonnement correct c'est bien aussi.
 
-## Simulations
+## Simulation
+
+La simulation nous donne donc le résultat suivant :
+
+![image](python/Images/ResultatsSimulation.png)
+
+
+On constate que la bonne stratégie consiste donc à changer de porte pour augmenter ses chances.
+
 
 
 
